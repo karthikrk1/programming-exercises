@@ -1,2 +1,3 @@
-# programming-exercises
-A repo with all of my programming exercises from Leetcode.com and other such platforms. This is written entirely in Python 3
+# Programming Exercises
+
+A repo with all of my solutions to problems from Leetcode.com and other such platforms. This is written entirely in Python 3
